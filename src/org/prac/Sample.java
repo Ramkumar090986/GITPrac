@@ -8,6 +8,8 @@ public class Sample {
 		
 		sum=a+b;
 		
+		System.out.println("Sam2 branch added");
+		
 		System.out.println("Sum of a and b is:"+sum);
 	
 	}
