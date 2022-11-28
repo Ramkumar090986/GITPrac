@@ -10,6 +10,11 @@ public class Sample {
 		
 		System.out.println("Sam1 Branch code added");
 		
+		System.out.println("Sam2 branch added");
+
+		
+
+		
 		System.out.println("Sum of a and b is:"+sum);
 		
 		
